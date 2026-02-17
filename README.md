@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Kauã Alves Silva! 👋
 
-<!--
-**KauaAlvs/KauaAlvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** focado em criar soluções eficientes e escaláveis. Atualmente atuo como desenvolvedor Full Stack e suporte técnico, unindo infraestrutura e código.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias & Ferramentas
+- **Linguagens:** C#, Node.js, JavaScript, TypeScript
+- **Front-end:** HTML5, CSS3, React
+- **Back-end & DB:** SQL, MySQL, PostgreSQL
+- **Outros:** Suporte de TI, Cloud Fundamentals, Redes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projetos em Destaque
+- **CRM & Gestão de Marketing:** Sistema integrado para gestão de leads e processos internos.
+- **Ecossistema Papa Mike:** Desenvolvimento de diversos portais institucionais e educacionais.
+- **Portal APIT:** Plataforma para o programa de aprendizes.
+
+## 📫 Vamos nos conectar?
+- [LinkedIn](linkedin.com/in/kaua-alves-silva)
+- [GitHub](https://github.com/KauaAlvs)
