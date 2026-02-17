@@ -14,5 +14,5 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado em criar soluçõ
 - **Portal APIT:** Plataforma para o programa de aprendizes.
 
 ## 📫 Vamos nos conectar?
-- [LinkedIn](linkedin.com/in/kaua-alves-silva)
+- [LinkedIn](https://linkedin.com/in/kaua-alves-silva)
 - [GitHub](https://github.com/KauaAlvs)
