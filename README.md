@@ -16,15 +16,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado em criar soluçõ
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KauaAlvs)
-
 ## 🛠️ Projetos em Destaque
 - **CRM & Gestão de Marketing:** Sistema integrado para gestão de leads e processos internos.
 - **Ecossistema Papa Mike:** Desenvolvimento de diversos portais institucionais e educacionais.
 - **Portal APIT:** Plataforma para o programa de aprendizes.
 
 ## 📫 Vamos nos conectar?
-- [LinkedIn](https://linkedin.com/in/kaua-alves-silva)
-- [GitHub](https://github.com/KauaAlvs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://linkedin.com/in/kaua-alves-silva))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KauaAlvs)
