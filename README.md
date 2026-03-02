@@ -23,5 +23,5 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado em criar soluçõ
 - **Agendas Pessoais e Corporativas:** Agenda para organização pessoal de tarefas e metas, ou organização no ambito corporativo.
 
 ## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://linkedin.com/in/kaua-alves-silva))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaua-alves-silva)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KauaAlvs)
