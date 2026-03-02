@@ -20,6 +20,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado em criar soluçõ
 - **CRM & Gestão de Marketing:** Sistema integrado para gestão de leads e processos internos.
 - **Ecossistema Papa Mike:** Desenvolvimento de diversos portais institucionais e educacionais.
 - **Portal APIT:** Plataforma para o programa de aprendizes.
+- **Agendas Pessoais e Corporativas:** Agenda para organização pessoal de tarefas e metas, ou organização no ambito corporativo.
 
 ## 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://linkedin.com/in/kaua-alves-silva))
