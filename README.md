@@ -35,8 +35,8 @@ Estou ativamente arquitetando soluções complexas no momento:
 
 ## 🛠️ Projetos em Destaque
 
-- **[📱 Patrão Digital PWA](https://github.com/KauaAlvs/):** Secretária digital autônoma. Utiliza Vercel Cron Jobs e Firebase Cloud Messaging para varrer metas no banco de dados e notificar ativamente o usuário sobre "gaps" de produtividade.
-- **[🎓 Papa Mike CRM](https://github.com/KauaAlvs/):** Motor central de matrículas escolares. Arquitetura containerizada com Node/Postgres, "Modo Apresentação 180º" e automação de WhatsApp via Evolution API.
+- **[📱 Patrão Digital PWA](https://patrao-digital.vercel.app/):** Secretária digital autônoma. Utiliza Vercel Cron Jobs e Firebase Cloud Messaging para varrer metas no banco de dados e notificar ativamente o usuário sobre "gaps" de produtividade.
+- **[🎓 Papa Mike CRM](https://github.com/KauaAlvs/CRM-papamike):** Motor central de matrículas escolares. Arquitetura containerizada com Node/Postgres, "Modo Apresentação 180º" e automação de WhatsApp via Evolution API.
 - **[🛍️ Future Store](https://loja-futuro.vercel.app/):** E-commerce conceitual com foco extremo em Web Vitals, performance de carregamento instantâneo e design urbano.
 - **[🌐 Meu Ecossistema Digital](https://site-kaua.vercel.app/):** Meu portfólio pessoal construído com a filosofia "Zero Dependências" (Vanilla Web) focado em SEO e velocidade extrema.
 
