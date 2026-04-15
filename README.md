@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack | Engenharia de Software & Infraestrutura**
 
-Com 3 anos de experiência em TI, sou focado em arquitetar e desenvolver ecossistemas digitais que resolvem problemas reais de negócio. Atuo unindo código de alta performance (Front/Back) com uma infraestrutura resiliente, criando desde CRMs complexos até plataformas educacionais com regras de negócio rígidas.
+Com 3 anos de experiência em Desenvolvimento, sou focado em arquitetar e desenvolver ecossistemas digitais que resolvem problemas reais de negócio. Atuo unindo código de alta performance (Front/Back) com uma infraestrutura resiliente, criando desde CRMs complexos até plataformas educacionais com regras de negócio rígidas.
 
 Minha filosofia é entregar software rápido, escalável e com UX pensada para conversão e usabilidade (Mobile First).
 
