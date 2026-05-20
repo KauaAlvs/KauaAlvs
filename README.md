@@ -39,12 +39,15 @@ Estou ativamente arquitetando soluções complexas no momento:
 
 - **[📱 Patrão Digital PWA](https://patrao-digital.vercel.app/):** Secretária digital autônoma. Utiliza Vercel Cron Jobs e Firebase Cloud Messaging para varrer metas no banco de dados e notificar ativamente o usuário sobre "gaps" de produtividade.
 - **[🎓 Papa Mike CRM](https://github.com/KauaAlvs/CRM-papamike):** Motor central de matrículas escolares. Arquitetura containerizada com Node/Postgres, "Modo Apresentação 180º" e automação de WhatsApp via Evolution API.
-- **[🛍️ Gestão Cantina](https://github.com/KauaAlvs/projeto-cantina):** E-commerce conceitual com foco extremo em Web Vitals, performance de carregamento instantâneo e design urbano.
+- **[🛍️ Gestão Cantina](https://github.com/KauaAlvs/cantina-do-bem):** E-commerce conceitual com foco extremo em Web Vitals, performance de carregamento instantâneo e design urbano.
 - **[🌐 Meu Ecossistema Digital](https://pasm.com.br/):** Meu portfólio pessoal construído com a filosofia "Zero Dependências" (Vanilla Web) focado em SEO e velocidade extrema.
+- **[🌐 Site institucional Papa Mike](https://papamike.com.br/):** Site institucional para conversão de matrículas, galeria de fotos e mais!
+- **[🌐 Site institucional Papa Mike Saúde](https://papamikesaude.com.br/):** Site institucional para conversão de matrículas voltada para área da saúde, galeria de fotos, vídeos e mais!
+
 
 ---
 
 ## 📫 Vamos nos conectar?
-[![Portfólio](https://img.shields.io/badge/Acessar_Meu_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://site-kaua.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Acessar_Meu_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pasm.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaua-alves-silva)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KauaAlvs)
