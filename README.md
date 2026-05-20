@@ -30,6 +30,8 @@ Estou ativamente arquitetando soluções complexas no momento:
 
 - 📈 **CRM de Marketing (Integração Meta Graph API):** Um ecossistema de gestão focado em marketing e vendas. Envolve integração pesada com Webhooks, captação de leads em tempo real e automação de agendamentos de postagens.
 - 🎓 **EdTech - Gestão de Jovens Aprendizes:** Web App completo para coordenação de alunos e professores. Inclui sistema de Role-Based Access Control (RBAC), diário de classe eletrônico (chamadas em tempo real), calendário acadêmico dinâmico e mural de comunicados.
+- 📨 **Sistema de convites** Um sistema desenvolvido e pensado para atendentes comerciais, com fluxo de pagamento e geração de convites, com integração ao WhatsApp para envio dos convites.
+- 🪪 **Sistema de credenciamentos digital:** Web App completo para gestão e validação de ingressos. Através de escaneamento e validação dos códigos de barra emitidos pelo sistema.
 
 ---
 
@@ -37,8 +39,8 @@ Estou ativamente arquitetando soluções complexas no momento:
 
 - **[📱 Patrão Digital PWA](https://patrao-digital.vercel.app/):** Secretária digital autônoma. Utiliza Vercel Cron Jobs e Firebase Cloud Messaging para varrer metas no banco de dados e notificar ativamente o usuário sobre "gaps" de produtividade.
 - **[🎓 Papa Mike CRM](https://github.com/KauaAlvs/CRM-papamike):** Motor central de matrículas escolares. Arquitetura containerizada com Node/Postgres, "Modo Apresentação 180º" e automação de WhatsApp via Evolution API.
-- **[🛍️ Future Store](https://loja-futuro.vercel.app/):** E-commerce conceitual com foco extremo em Web Vitals, performance de carregamento instantâneo e design urbano.
-- **[🌐 Meu Ecossistema Digital](https://site-kaua.vercel.app/):** Meu portfólio pessoal construído com a filosofia "Zero Dependências" (Vanilla Web) focado em SEO e velocidade extrema.
+- **[🛍️ Gestão Cantina](https://github.com/KauaAlvs/projeto-cantina):** E-commerce conceitual com foco extremo em Web Vitals, performance de carregamento instantâneo e design urbano.
+- **[🌐 Meu Ecossistema Digital](https://pasm.com.br/):** Meu portfólio pessoal construído com a filosofia "Zero Dependências" (Vanilla Web) focado em SEO e velocidade extrema.
 
 ---
 
