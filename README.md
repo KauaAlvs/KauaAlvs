@@ -39,11 +39,11 @@ Estou ativamente arquitetando soluções complexas no momento:
 
 - **[📱 Patrão Digital PWA](https://patrao-digital.vercel.app/):** Secretária digital autônoma. Utiliza Vercel Cron Jobs e Firebase Cloud Messaging para varrer metas no banco de dados e notificar ativamente o usuário sobre "gaps" de produtividade.
 - **[🎓 Papa Mike CRM](https://github.com/KauaAlvs/CRM-papamike):** Motor central de matrículas escolares. Arquitetura containerizada com Node/Postgres, "Modo Apresentação 180º" e automação de WhatsApp via Evolution API.
+- **[🌐 Agenda Digital DEMO](https://github.com/KauaAlvs/agenda-digital-demo):** Agenda Digital como demonstração para prestadores de serviço!
 - **[🛍️ Gestão Cantina](https://github.com/KauaAlvs/cantina-do-bem):** E-commerce conceitual com foco extremo em Web Vitals, performance de carregamento instantâneo e design urbano.
 - **[🌐 Meu Ecossistema Digital](https://pasm.com.br/):** Meu portfólio pessoal construído com a filosofia "Zero Dependências" (Vanilla Web) focado em SEO e velocidade extrema.
 - **[🌐 Site institucional Papa Mike](https://papamike.com.br/):** Site institucional para conversão de matrículas, galeria de fotos e mais!
 - **[🌐 Site institucional Papa Mike Saúde](https://papamikesaude.com.br/):** Site institucional para conversão de matrículas voltada para área da saúde, galeria de fotos, vídeos e mais!
-
 
 ---
 
