@@ -37,10 +37,14 @@ Estou ativamente arquitetando soluções complexas no momento:
 
 ## 🛠️ Projetos em Destaque
 
-- **[📱 Patrão Digital PWA](https://patrao-digital.vercel.app/):** Secretária digital autônoma. Utiliza Vercel Cron Jobs e Firebase Cloud Messaging para varrer metas no banco de dados e notificar ativamente o usuário sobre "gaps" de produtividade.
-- **[🎓 Papa Mike CRM](https://github.com/KauaAlvs/CRM-papamike):** Motor central de matrículas escolares. Arquitetura containerizada com Node/Postgres, "Modo Apresentação 180º" e automação de WhatsApp via Evolution API.
+- **[🎓 Papa Mike CRM](https://github.com/KauaAlvs/papamike-crm):** Motor central de matrículas escolares. Arquitetura containerizada com Node/Postgres, "Modo Apresentação 180º" e automação de WhatsApp via Evolution API.
 - **[🌐 Agenda Digital DEMO](https://github.com/KauaAlvs/agenda-digital-demo):** Agenda Digital como demonstração para prestadores de serviço!
 - **[🛍️ Gestão Cantina](https://github.com/KauaAlvs/cantina-do-bem):** E-commerce conceitual com foco extremo em Web Vitals, performance de carregamento instantâneo e design urbano.
+- **[🛍️ Portal APIT](https://github.com/KauaAlvs/PROJETO-PORTAL-APIT):** Desenvolvido para eliminar as planilhas manuais de presença, automatizar o disparo de e-mails institucionais e dar ao jovem aprendiz o controle total (Mobile-First) sobre sua jornada de horas.
+- **[🛍️ Sistema de Controle para Rifas](https://github.com/KauaAlvs/SISTEMA-DE-CONTROLE-RIFA):** Plataforma completa para gestão de rifas, controle de vendas em tempo real, geração de material de marketing e execução cinematográfica de sorteios.
+- **[🛍️ Sistema de Convites](https://github.com/KauaAlvs/SISTEMA-CONVITES):** Plataforma completa para emissão, gestão de passaportes e controle de acesso, com automação inteligente de convites via WhatsApp.
+- **[🛍️ Sistema de Credenciamento](https://github.com/KauaAlvs/SISTEMA-CREDENCIAMENTO):** Plataforma de alta performance para validação de ingressos via código de barras, com monitoramento em tempo real e auditoria completa de acessos.
+- **[🛍️ Portal de Vagas](https://github.com/KauaAlvs/PORTAL-DE-VAGAS):** Plataforma completa de Recrutamento, Acompanhamento e Qualificação para Jovens Aprendizes, construída com foco em altíssima conversão e experiência de usuário (UX).
 - **[🌐 Meu Ecossistema Digital](https://pasm.com.br/):** Meu portfólio pessoal construído com a filosofia "Zero Dependências" (Vanilla Web) focado em SEO e velocidade extrema.
 - **[🌐 Site institucional Papa Mike](https://papamike.com.br/):** Site institucional para conversão de matrículas, galeria de fotos e mais!
 - **[🌐 Site institucional Papa Mike Saúde](https://papamikesaude.com.br/):** Site institucional para conversão de matrículas voltada para área da saúde, galeria de fotos, vídeos e mais!
